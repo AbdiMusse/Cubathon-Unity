@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b40a004-9e93-40f4-9cb9-abe7d4d67ae1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CubeGame/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CubeGame/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CubeGame/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CubeGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CubeGame/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CubeGame/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CubeGame/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/LevelComplete.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/LevelComplete.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/LevelComplete.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/LevelComplete.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/GroundMet.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/GroundMet.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/ObstacleMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/ObstacleMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/PlayerMet.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/PlayerMet.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Canvas.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Canvas.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/EndPoint.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/EndPoint.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/GameManager.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/GameManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Main Camera.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Main Camera.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Obstacle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Obstacle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Credits.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Credits.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level3.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level3.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Credits.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Credits.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EndTrigger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EndTrigger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LoadNewLevel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LoadNewLevel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Score.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Score.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StartGame.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StartGame.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Slippery.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Slippery.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Level1.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/20BCAA32-60BE-440E-A495-3654848D4180/ef/cebeddc2/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EndTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Credits.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadNewLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartGame.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/FollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Credits.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadNewLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartGame.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yg42WRFessafWcqDkUCnTFRbHB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b40a004-9e93-40f4-9cb9-abe7d4d67ae1" name="Default Changelist" comment="" />
+      <created>1583350703984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583350703984</updated>
+      <workItem from="1583350718728" duration="76000" />
+      <workItem from="1583350870620" duration="2557000" />
+      <workItem from="1583514017509" duration="326000" />
+      <workItem from="1583514414666" duration="3642000" />
+      <workItem from="1587465592863" duration="4677000" />
+      <workItem from="1587473183978" duration="10887000" />
+      <workItem from="1587554610087" duration="362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587488076768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1587488076768" />
+    <state x="257" y="204" width="1018" height="437" key="LayersDialog" timestamp="1583353209406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="257" y="204" width="1018" height="437" key="LayersDialog/0.0.1536.824@0.0.1536.824" timestamp="1583353209406" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1587465751400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587465751400" />
+    <state x="450" y="0" width="635" height="824" key="find.popup" timestamp="1583515292812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="0" width="635" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1583515292812" />
+  </component>
+</project>
